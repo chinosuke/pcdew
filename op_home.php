@@ -71,8 +71,8 @@ a:active {
 
             <h3 class="noscreen">Navigation</h3>
             <ul class="box">
-                <li   id="active" ><a href="#">Home<span class="tab-l"></span><span class="tab-r"></span></a></li>
-                <li ><a href="op_home">Owner Project<span class="tab-l"></span><span class="tab-r"></span></a></li> <!-- Active -->
+                <li ><a href="index.php">Home<span class="tab-l"></span><span class="tab-r"></span></a></li>
+                <li id="active" ><a href="#">Owner Project<span class="tab-l"></span><span class="tab-r"></span></a></li> <!-- Active -->
                 <li><a href="#">Joining Project<span class="tab-l"></span><span class="tab-r"></span></a></li>
                 <li><a href="#">My Job<span class="tab-l"></span><span class="tab-r"></span></a></li>
                 <li><a href="#">Board<span class="tab-l"></span><span class="tab-r"></span></a></li>
