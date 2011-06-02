@@ -72,13 +72,13 @@ a:active {
             <h3 class="noscreen">Navigation</h3>
             <ul class="box">
                 <li   id="active" ><a href="#">Home<span class="tab-l"></span><span class="tab-r"></span></a></li>
-                <li ><a href="op_home.php">Owner Project<span class="tab-l"></span><span class="tab-r"></span></a></li> <!-- Active -->
-                <li><a href="jp_home.php">Joining Project<span class="tab-l"></span><span class="tab-r"></span></a></li>
-                <li><a href="mj_home.php">My Job<span class="tab-l"></span><span class="tab-r"></span></a></li>
-                <li><a href="bo_home.php">Board<span class="tab-l"></span><span class="tab-r"></span></a></li>
-                <li><a href="ac_home.php">Admin Contact<span class="tab-l"></span><span class="tab-r"></span></a></li>
-				<li><a href="at_home.php">Admin Tools<span class="tab-l"></span><span class="tab-r"></span></a></li>
-                <li><a href="mh_home.php">Manual & Help<span class="tab-l"></span><span class="tab-r"></span></a></li>
+                <li ><a href="op_home">Owner Project<span class="tab-l"></span><span class="tab-r"></span></a></li> <!-- Active -->
+                <li><a href="#">Joining Project<span class="tab-l"></span><span class="tab-r"></span></a></li>
+                <li><a href="#">My Job<span class="tab-l"></span><span class="tab-r"></span></a></li>
+                <li><a href="#">Board<span class="tab-l"></span><span class="tab-r"></span></a></li>
+                <li><a href="#">Admin Contact<span class="tab-l"></span><span class="tab-r"></span></a></li>
+				<li><a href="#">Admin Tools<span class="tab-l"></span><span class="tab-r"></span></a></li>
+                <li><a href="#">Manual & Help<span class="tab-l"></span><span class="tab-r"></span></a></li>
             </ul>
 
         <hr class="noscreen" />
@@ -94,7 +94,7 @@ a:active {
             <hr class="noscreen" />
 
             <!-- Breadcrumbs -->
-            <p id="breadcrumbs"><a href="#"><strong> Welcom to Project Collaborative Development Environment Website</strong></a></p>
+            <p id="breadcrumbs">You are here: <a href="#"><b>Home</b></a></p>
             <hr class="noscreen" />
             
         </div> <!-- /strip -->

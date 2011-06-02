@@ -73,8 +73,8 @@ a:active {
             <h3 class="noscreen">Navigation</h3>
             <ul class="box">
                 <li ><a href="index_home.php">Home<span class="tab-l"></span><span class="tab-r"></span></a></li>
-                <li id="active" ><a href="#">Owner Project<span class="tab-l"></span><span class="tab-r"></span></a></li> <!-- Active -->
-                <li><a href="jp_home.php">Joining Project<span class="tab-l"></span><span class="tab-r"></span></a></li>
+                <li ><a href="op_home.php">Owner Project<span class="tab-l"></span><span class="tab-r"></span></a></li> <!-- Active -->
+                <li id="active" ><a href="#">Joining Project<span class="tab-l"></span><span class="tab-r"></span></a></li>
                 <li><a href="#">My Job<span class="tab-l"></span><span class="tab-r"></span></a></li>
                 <li><a href="#">Board<span class="tab-l"></span><span class="tab-r"></span></a></li>
                 <li><a href="#">Admin Contact<span class="tab-l"></span><span class="tab-r"></span></a></li>
@@ -95,7 +95,7 @@ a:active {
             <hr class="noscreen" />
 
             <!-- Breadcrumbs -->
-            <p id="breadcrumbs">You are here: <a href="#"><b>Owner Project</b></a></p>
+            <p id="breadcrumbs">You are here: <a href="#"><b>Joining Project</b></a></p>
             <hr class="noscreen" />
             
         </div> <!-- /strip -->
@@ -103,15 +103,15 @@ a:active {
         <!-- Content -->
         <div id="content">
 			<div class="article">
-                <h2><span><a href="#"> <strong>Project Collaborative Development Environment Website </strong> </a></span></h2>
+                 <h2><span><a href="#"> <strong>Data Center Monitoring Website</strong> </a></span></h2>
                 <p class="info noprint">
                     <span class="date"><font color=#0099FF>2011-06-02 @ 00:01</font><span class="style1"></span></span><span class="noscreen">,</span>
                     <span class="cat"><a href="#"><font color=#FF0000>Issue</font></a></span><span class="noscreen">,</span>
                     <span class="user"><a href="#"><font color=#FF00CC>Join</font></a></span><span class="noscreen">,</span>
                     <span class="comments"><a href="#"><font color=#FF99CC>Comments</font></a></span>                </p>
 
-                <ul>
-                  <li>รู้เรื่อง GIT</li>
+                 <ul>
+                  <li>รู้เรื่อง Nagios และวิธีติดต่อกับ Nagios</li>
                   <li>รู้เรื่อง PHP, MySQL</li>
                 </ul>
                 <p>&nbsp;</p>
